@@ -65,7 +65,7 @@ if (isset($_POST['submit'])) {
                             <button type="submit" name="submit" class="btn btn-primary btn-block">Login</button>
                         </form>
                         <div class="text-center mt-3">
-                            <a href="register.php">Don't have an account? Register here</a>
+                            <a href="signup.php">Don't have an account? Register here</a>
                         </div>
                     </div>
                 </div>

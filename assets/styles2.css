@@ -1,0 +1,28 @@
+body {
+    background: url('../images/b.jpg') !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+
+.signup-container {
+    margin-top: 100px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+form .form-group label {
+    font-weight: bold;
+}
+
+form .btn {
+    background-color: #007bff;
+    border: none;
+}
+
+form .btn:hover {
+    background-color: #0056b3;
+}
